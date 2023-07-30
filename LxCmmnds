@@ -6,3 +6,5 @@
 
 # deleting non empty folder:
   rm-rf folder-name
+
+# removing git from project : just remove .git folder

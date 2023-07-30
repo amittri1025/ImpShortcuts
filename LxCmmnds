@@ -1,0 +1,8 @@
+#turn on : nmcli r wifi on
+#search : nmcli dev wifi
+#connect : nmcli dev wifi connect "ssid" password "pswd"
+#status nmcli dev status
+
+
+# deleting non empty folder:
+  rm-rf folder-name

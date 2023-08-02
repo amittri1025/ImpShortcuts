@@ -8,3 +8,7 @@
   rm-rf folder-name
 
 # removing git from project : just remove .git folder
+# web cam disable /enable
+# webcam disable : sudo modprobe -r uvcvideo
+#webcam; enable : sudo rmmod -f uvcvideo
+
